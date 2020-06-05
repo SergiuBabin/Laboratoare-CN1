@@ -1,0 +1,32 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: A:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 143fa9481e1b4491a4b68d7c0179bc3e --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Sim_behav xil_defaultlib.Sim xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 28 differs from formal bit length 22 for port 'mantise' [C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/BandaAsamblare.v:41]
+WARNING: [VRFC 10-3091] actual bit length 28 differs from formal bit length 22 for port 'mantise' [C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/BandaAsamblare.v:54]
+WARNING: [VRFC 10-3091] actual bit length 12 differs from formal bit length 11 for port 'mantisa_out' [C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/BandaAsamblare.v:95]
+WARNING: [VRFC 10-3091] actual bit length 22 differs from formal bit length 28 for port 'mantise' [C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/BandaAsamblare.v:70]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 5 for port 'exponent' [C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/BandaAsamblare.v:71]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Init
+Compiling module xil_defaultlib.Split
+Compiling module xil_defaultlib.Exponentii
+Compiling module xil_defaultlib.Mantisele
+Compiling module xil_defaultlib.ComparaExponenti
+Compiling module xil_defaultlib.Concatenare
+Compiling module xil_defaultlib.AlegeExponent
+Compiling module xil_defaultlib.AliniereMantise
+Compiling module xil_defaultlib.Exponent
+Compiling module xil_defaultlib.AdunaScadeMantisele
+Compiling module xil_defaultlib.Mantisa
+Compiling module xil_defaultlib.Normalizare
+Compiling module xil_defaultlib.AjustareExponent
+Compiling module xil_defaultlib.BandaAsamblare
+Compiling module xil_defaultlib.Sim
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Sim_behav

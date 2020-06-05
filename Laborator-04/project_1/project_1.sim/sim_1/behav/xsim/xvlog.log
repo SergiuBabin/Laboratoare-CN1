@@ -1,0 +1,32 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/AdunaScadeMantisele.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AdunaScadeMantisele
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/AjustareExponent.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AjustareExponent
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/AlegeExponent.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AlegeExponent
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/AliniereMantise.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AliniereMantise
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/BandaAsamblare.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BandaAsamblare
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/ComparaExponenti.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ComparaExponenti
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Concatenare.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Concatenare
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Exponent.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Exponent
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Exponentii.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Exponentii
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Init.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Init
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Mantisa.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mantisa
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Mantisele.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mantisele
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Normalizare.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Normalizare
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Split.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Split
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ghenn/Desktop/project_1/project_1.srcs/sim_1/new/Sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sim
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ghenn/Desktop/project_1/project_1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

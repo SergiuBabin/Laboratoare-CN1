@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri May  1 23:19:43 2020
+# Process ID: 12888
+# Current directory: A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17564 A:\ACS\an2semII\CN\CN2\Buboc_final\Miss_Buboc_2\project_1\project_1.xpr
+# Log file: A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/vivado.log
+# Journal file: A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source Sim.tcl
+close_sim

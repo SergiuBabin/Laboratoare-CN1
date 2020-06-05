@@ -1,0 +1,138 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri May  1 23:19:43 2020
+# Process ID: 12888
+# Current directory: A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17564 A:\ACS\an2semII\CN\CN2\Buboc_final\Miss_Buboc_2\project_1\project_1.xpr
+# Log file: A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/vivado.log
+# Journal file: A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/Luciana/Downloads/CN2/Buboc_final/Miss_Buboc_2/project_1' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [Project 1-230] Project 'project_1.xpr' upgraded for this version of Vivado.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.2/data/ip'.
+open_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:11 . Memory (MB): peak = 840.422 ; gain = 178.344
+update_compile_order -fileset sources_1
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'Sim' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.sim/sim_1/behav/xsim'
+"xvlog --incr --relax -prj Sim_vlog.prj"
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/AdunaScadeMantisele.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AdunaScadeMantisele
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/AjustareExponent.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AjustareExponent
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/AlegeExponent.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AlegeExponent
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/AliniereMantise.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AliniereMantise
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/BandaAsamblare.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BandaAsamblare
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/ComparaExponenti.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ComparaExponenti
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/Concatenare.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Concatenare
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/Exponent.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Exponent
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/Exponentii.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Exponentii
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/Init.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Init
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/Mantisa.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mantisa
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/Mantisele.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mantisele
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/Normalizare.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Normalizare
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/Split.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Split
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sim_1/new/Sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sim
+INFO: [VRFC 10-2263] Analyzing Verilog file "A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+run_program: Time (s): cpu = 00:00:00 ; elapsed = 00:00:06 . Memory (MB): peak = 862.012 ; gain = 0.000
+INFO: [USF-XSim-69] 'compile' step finished in '6' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.sim/sim_1/behav/xsim'
+"xelab -wto 143fa9481e1b4491a4b68d7c0179bc3e --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Sim_behav xil_defaultlib.Sim xil_defaultlib.glbl -log elaborate.log"
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 143fa9481e1b4491a4b68d7c0179bc3e --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Sim_behav xil_defaultlib.Sim xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 28 differs from formal bit length 22 for port 'mantise' [A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/BandaAsamblare.v:41]
+WARNING: [VRFC 10-3091] actual bit length 28 differs from formal bit length 22 for port 'mantise' [A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/BandaAsamblare.v:54]
+WARNING: [VRFC 10-3091] actual bit length 12 differs from formal bit length 11 for port 'mantisa_out' [A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/BandaAsamblare.v:95]
+WARNING: [VRFC 10-3091] actual bit length 22 differs from formal bit length 28 for port 'mantise' [A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/BandaAsamblare.v:70]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 5 for port 'exponent' [A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.srcs/sources_1/new/BandaAsamblare.v:71]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Init
+Compiling module xil_defaultlib.Split
+Compiling module xil_defaultlib.Exponentii
+Compiling module xil_defaultlib.Mantisele
+Compiling module xil_defaultlib.ComparaExponenti
+Compiling module xil_defaultlib.Concatenare
+Compiling module xil_defaultlib.AlegeExponent
+Compiling module xil_defaultlib.AliniereMantise
+Compiling module xil_defaultlib.Exponent
+Compiling module xil_defaultlib.AdunaScadeMantisele
+Compiling module xil_defaultlib.Mantisa
+Compiling module xil_defaultlib.Normalizare
+Compiling module xil_defaultlib.AjustareExponent
+Compiling module xil_defaultlib.BandaAsamblare
+Compiling module xil_defaultlib.Sim
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Sim_behav
+
+****** Webtalk v2019.2 (64-bit)
+  **** SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+  **** IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+    ** Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+
+source A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.sim/sim_1/behav/xsim/xsim.dir/Sim_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Fri May  1 23:21:26 2020...
+run_program: Time (s): cpu = 00:00:02 ; elapsed = 00:00:16 . Memory (MB): peak = 862.012 ; gain = 0.000
+INFO: [USF-XSim-69] 'elaborate' step finished in '16' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'A:/ACS/an2semII/CN/CN2/Buboc_final/Miss_Buboc_2/project_1/project_1.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "Sim_behav -key {Behavioral:sim_1:Functional:Sim} -tclbatch {Sim.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+source Sim.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+xsim: Time (s): cpu = 00:00:09 ; elapsed = 00:00:06 . Memory (MB): peak = 886.762 ; gain = 18.105
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'Sim_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:13 ; elapsed = 00:00:31 . Memory (MB): peak = 886.762 ; gain = 24.750
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+close_sim: Time (s): cpu = 00:00:04 ; elapsed = 00:00:09 . Memory (MB): peak = 898.922 ; gain = 10.172
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri May  1 23:34:00 2020...

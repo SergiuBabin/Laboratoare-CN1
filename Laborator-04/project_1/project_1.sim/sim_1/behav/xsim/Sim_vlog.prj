@@ -1,0 +1,23 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_1.srcs/sources_1/new/AdunaScadeMantisele.v" \
+"../../../../project_1.srcs/sources_1/new/AjustareExponent.v" \
+"../../../../project_1.srcs/sources_1/new/AlegeExponent.v" \
+"../../../../project_1.srcs/sources_1/new/AliniereMantise.v" \
+"../../../../project_1.srcs/sources_1/new/BandaAsamblare.v" \
+"../../../../project_1.srcs/sources_1/new/ComparaExponenti.v" \
+"../../../../project_1.srcs/sources_1/new/Concatenare.v" \
+"../../../../project_1.srcs/sources_1/new/Exponent.v" \
+"../../../../project_1.srcs/sources_1/new/Exponentii.v" \
+"../../../../project_1.srcs/sources_1/new/Init.v" \
+"../../../../project_1.srcs/sources_1/new/Mantisa.v" \
+"../../../../project_1.srcs/sources_1/new/Mantisele.v" \
+"../../../../project_1.srcs/sources_1/new/Normalizare.v" \
+"../../../../project_1.srcs/sources_1/new/Split.v" \
+"../../../../project_1.srcs/sim_1/new/Sim.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

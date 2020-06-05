@@ -1,0 +1,20 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/ghenn/Desktop/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1544155482,verilog,,,,glbl,,,,,,,,
+C:/Users/ghenn/Desktop/project_1/project_1.srcs/sim_1/new/Sim.v,1571994636,verilog,,,,Sim,,,,,,,,
+C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/AdunaScadeMantisele.v,1571994510,verilog,,C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/AjustareExponent.v,,AdunaScadeMantisele,,,,,,,,
+C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/AjustareExponent.v,1571860405,verilog,,C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/AlegeExponent.v,,AjustareExponent,,,,,,,,
+C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/AlegeExponent.v,1571512876,verilog,,C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/AliniereMantise.v,,AlegeExponent,,,,,,,,
+C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/AliniereMantise.v,1571994091,verilog,,C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/BandaAsamblare.v,,AliniereMantise,,,,,,,,
+C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/BandaAsamblare.v,1571994362,verilog,,C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/ComparaExponenti.v,,BandaAsamblare,,,,,,,,
+C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/ComparaExponenti.v,1571863220,verilog,,C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Concatenare.v,,ComparaExponenti,,,,,,,,
+C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Concatenare.v,1571867007,verilog,,C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Exponent.v,,Concatenare,,,,,,,,
+C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Exponent.v,1571513748,verilog,,C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Exponentii.v,,Exponent,,,,,,,,
+C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Exponentii.v,1571863281,verilog,,C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Init.v,,Exponentii,,,,,,,,
+C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Init.v,1571436712,verilog,,C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Mantisa.v,,Init,,,,,,,,
+C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Mantisa.v,1571859012,verilog,,C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Mantisele.v,,Mantisa,,,,,,,,
+C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Mantisele.v,1571485843,verilog,,C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Normalizare.v,,Mantisele,,,,,,,,
+C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Normalizare.v,1571860636,verilog,,C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Split.v,,Normalizare,,,,,,,,
+C:/Users/ghenn/Desktop/project_1/project_1.srcs/sources_1/new/Split.v,1571437912,verilog,,C:/Users/ghenn/Desktop/project_1/project_1.srcs/sim_1/new/Sim.v,,Split,,,,,,,,
